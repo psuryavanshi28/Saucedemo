@@ -23,3 +23,11 @@ This is a Selenium automation project for the [SauceDemo](https://www.saucedemo.
 - Logout
 
 ---
+## 📁 Project Structure
+
+Saucedemo/
+├── Pages/ → Page Object classes
+├── TestCases/ → TestNG test scripts
+├── Utils/ → Driver & utility classes
+├── pom.xml → Project dependencies
+└── testng.xml → Test suite configuration
